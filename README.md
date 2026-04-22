@@ -88,7 +88,7 @@ Dashboard ini menyoroti beberapa temuan kritis:
 
 Prototipe sistem machine learning untuk mendeteksi risiko dropout telah dibuat menggunakan **Streamlit** dan dapat diakses secara publik lewat Streamlit Community Cloud.
 
-**Link Prototype Streamlit:** https://jaya-jaya-dropout-prediction-pcnvle44o7pykccsdapptvp.streamlit.app/
+**Link Prototype Streamlit:** [https://jaya-jaya-dropout-prediction-pcnvle44o7pykccsdapptvp.streamlit.app/](https://jaya-jaya-dropout-prediction-nyw2rs7ulidyqrfcq87mxc.streamlit.app/)
 
 Jika ingin menjalankan prototype secara lokal, gunakan perintah berikut di terminal:
 streamlit run app.py
