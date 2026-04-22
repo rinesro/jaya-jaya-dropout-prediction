@@ -5,8 +5,8 @@ import joblib
 st.set_page_config(page_title="Jaya Jaya Institut - Dropout Prediction", layout="wide")
 
 try:
-    model = joblib.load('rf_model.joblib')
-    scaler = joblib.load('scaler.joblib')
+    model = joblib.load('./model/rf_model.joblib')
+    scaler = joblib.load('./model/scaler.joblib')
 except FileNotFoundError:
     st.error("File model atau scaler tidak ditemukan! Pastikan file berada di folder yang sama.")
 
