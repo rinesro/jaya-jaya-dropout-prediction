@@ -42,7 +42,7 @@ conda activate main-ds
 
 # Menginstal semua dependensi yang dibutuhkan secara otomatis melalui requirements.txt
 pip install -r requirements.txt
-
+```
 **Opsi 2: Setup Environment - Shell/Terminal**
 ```bash
 # Membuat virtual environment bernama 'env'
@@ -55,7 +55,7 @@ source env/bin/activate
 
 # Menginstal semua dependensi yang dibutuhkan secara otomatis melalui requirements.txt
 pip install -r requirements.txt
-
+```
 ## Business Dashboard
 
 Business Dashboard telah dibangun menggunakan **Metabase**. Berkas database Metabase untuk proyek ini dilampirkan dengan nama metabase.db.mv.db.
