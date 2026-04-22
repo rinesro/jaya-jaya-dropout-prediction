@@ -26,10 +26,10 @@ Sumber data: Dataset Jaya Jaya Institut  yang mencakup informasi pendaftaran, la
 
 Setup environment:
 # Clone repository proyek
-git clone <link_repository_github_anda>
+git clone https://github.com/rinesro/jaya-jaya-dropout-prediction.git
 
 # Masuk ke direktori proyek
-cd <nama_folder_proyek>
+cd hasil_akhir
 
 # Instal semua library yang dibutuhkan
 pip install -r requirements.txt
